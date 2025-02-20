@@ -1,1 +1,13 @@
-
+body {
+    font-family: 'Comfortaa', sans-serif;
+    background-color: #ffb997;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 1000;
+    /*hight: 100vd;;*/
+    
+}
